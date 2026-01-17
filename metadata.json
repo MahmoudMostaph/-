@@ -1,0 +1,7 @@
+{
+  "name": "مجاهد",
+  "description": "An interactive product catalog for the 'Dream of Weight and Fitness' center, specializing in nutrition and fitness supplements. The app includes an admin panel for managing products.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

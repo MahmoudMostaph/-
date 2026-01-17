@@ -1,0 +1,48 @@
+
+{
+  "settings": {
+    "heroTitle": "مركز حلم الوزن والرشاقة",
+    "heroSubtitle": "وجهتكم الأولى في تبوك للرشاقة والتغذية الرياضية. نساعدكم في تحقيق أهدافكم الصحية بأفضل المكملات والبرامج المتخصصة.",
+    "heroBannerText": "خصومات حصرية لعملاء المركز: احصل على استشارة مجانية عند شراء مكملات بقيمة 500 ريال فأكثر."
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Whey Protein Isolate",
+      "description": "بروتين نقي 100% سريع الامتصاص، مثالي لبناء العضلات الصافية والاستشفاء العضلي بعد التمرين.",
+      "imageUrl": "https://images.unsplash.com/photo-1593095191071-82b0cde44aa0?auto=format&fit=crop&w=400&q=80",
+      "price": 320,
+      "salePrice": 285,
+      "category": "athlete",
+      "stock": 12
+    },
+    {
+      "id": "2",
+      "name": "Fat Burner Plus",
+      "description": "تركيبة قوية من المكونات الطبيعية لزيادة معدل حرق الدهون وتحسين مستوى الطاقة خلال اليوم.",
+      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=400&q=80",
+      "price": 180,
+      "category": "slimming",
+      "stock": 25
+    },
+    {
+      "id": "3",
+      "name": "BCAA Amino Acids",
+      "description": "أحماض أمينية متفرعة السلسلة للحفاظ على الكتلة العضلية وتقليل التعب أثناء التمارين الشاقة.",
+      "imageUrl": "https://images.unsplash.com/photo-1579722820308-d74e571900a9?auto=format&fit=crop&w=400&q=80",
+      "price": 140,
+      "salePrice": 120,
+      "category": "athlete",
+      "stock": 8
+    },
+    {
+      "id": "4",
+      "name": "Multivitamin for Men/Women",
+      "description": "مزيج متكامل من الفيتامينات والمعادن لدعم الصحة العامة والنشاط البدني والذهني.",
+      "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=400&q=80",
+      "price": 95,
+      "category": "slimming",
+      "stock": 40
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+
+{
+  "name": "حلم الوزن والرشاقة",
+  "short_name": "حلم",
+  "description": "كتالوج منتجات تفاعلي لمركز حلم الوزن والرشاقة، متخصص في المكملات الغذائية واللياقة البدنية.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#FBBF24",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
